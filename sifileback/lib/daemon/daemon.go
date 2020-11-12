@@ -6,6 +6,8 @@ import (
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"github.com/gorilla/sessions"
+	"github.com/gorilla/websocket"
+	"log"
 	"net"
 	"net/http"
 	"os"
@@ -81,8 +83,34 @@ func start(cfg *Config,l net.Listener) {
 		MaxHeaderBytes: 1 << 16 }
 	r7 := r7uter.NewRouterManager(cfg.Loger)
 	demon.HandleFunc("/ngapi/run", r7.RunCmd).Methods("POST")
+	demon.HandleFunc("/echo", echo)
 	//router.PathPrefix("").Handler(http.StripPrefix("/", http.FileServer(http.Dir("./resourse/"))))
 
 	go server.Serve(l)
 	cfg.Loger <- [4]string{"Front Http Server","nil",fmt.Sprintf("Server is started")}
+}
+
+
+var upgrader = websocket.Upgrader{} // use default options
+
+func echo(w http.ResponseWriter, r *http.Request) {
+	c, err := upgrader.Upgrade(w, r, nil)
+	if err != nil {
+		log.Print("upgrade:", err)
+		return
+	}
+	defer c.Close()
+	for {
+		mt, message, err := c.ReadMessage()
+		if err != nil {
+			log.Println("read:", err)
+			break
+		}
+		log.Printf("recv: %s", message)
+		err = c.WriteMessage(mt, message)
+		if err != nil {
+			log.Println("write:", err)
+			break
+		}
+	}
 }
