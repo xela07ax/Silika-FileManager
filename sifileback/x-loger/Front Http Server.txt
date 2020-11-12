@@ -6,3 +6,5 @@
 2020-11-12 22:16:58 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
 2020-11-12 23:00:57 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
 2020-11-12 23:00:57 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-11-12 23:14:17 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-11-12 23:14:17 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии

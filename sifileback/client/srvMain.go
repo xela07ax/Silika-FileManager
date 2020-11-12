@@ -52,6 +52,7 @@ func main() {
 	flag.Parse()
 	log.SetFlags(0)
 	http.HandleFunc("/echo", echo)
+	http.HandleFunc("/sh", echo)
 	http.HandleFunc("/", home)
 	http.HandleFunc("/sh", sh)
 
