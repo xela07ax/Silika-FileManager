@@ -1,0 +1,1 @@
+2020-11-12 00:17:08 | FUNC:Welcome | UNIT: nil | TEXT: Вас приветствует "Silika-FileManager Контроллер" v1.1 (11112020) 

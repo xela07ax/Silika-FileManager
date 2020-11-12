@@ -1,7 +1,10 @@
-# Silika-FileManager
- Реализация Ui, для файлового менеджера Go Silika Api. Модуль..
- 
- ## О проекте
+ ## Silika-FileManager
+Xela07ax (R)  | Модуль
+------------- | -------------
+<img src="artworks-arq96i.jpg" width="150"/>   | Реализация Ui, для файлового менеджера  Go Silika Api. 
+
+ ### О проекте
+
  Так как модули для js не интегрируются с коробки, с гитхабом, проект будет завернут в готовый каркас SilicaFront.
  Описание будет ниже.
  
@@ -40,7 +43,7 @@ or
     Дата установки:                   16.10.2020, 11:20:58
 ```
 
-* Окно успешного запуска
+* Вывод успешного запуска
 ```
 λ npx quasar dev
     DONE  Compiled successfully in 9625ms                                                                                           13:51:32
@@ -57,3 +60,5 @@ or
     i ｢wds｣: webpack output is served from
      App · Opening default browser at http://localhost:8080
 ```
+
+
