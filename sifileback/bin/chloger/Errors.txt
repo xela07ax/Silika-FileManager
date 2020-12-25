@@ -1,0 +1,6 @@
+2020-12-01 17:56:43 | UNIT: 6101 | FUNC: Processor | TEXT: CheckMkdir:mkdir /home/droid/Projects/GitHub/Silika-FileManager/sifileback/bin/dockerFile/6101: no such file or directory
+2020-12-01 17:56:43 | UNIT: 6099 | FUNC: Processor | TEXT: CheckMkdir:mkdir /home/droid/Projects/GitHub/Silika-FileManager/sifileback/bin/dockerFile/6099: no such file or directory
+2020-12-01 17:56:43 | UNIT: 6100 | FUNC: Processor | TEXT: CheckMkdir:mkdir /home/droid/Projects/GitHub/Silika-FileManager/sifileback/bin/dockerFile/6100: no such file or directory
+2020-12-02 16:44:24 | UNIT: nil | FUNC: Processor | TEXT: CheckMkdir:mkdir : no such file or directory
+2020-12-02 17:34:22 | UNIT: nil | FUNC: Processor | TEXT: CheckMkdir:mkdir : no such file or directory
+2020-12-06 13:24:01 | UNIT: nil | FUNC: Processor | TEXT: CheckMkdir:mkdir : no such file or directory

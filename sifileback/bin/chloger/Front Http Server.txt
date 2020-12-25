@@ -1,0 +1,140 @@
+2020-12-01 18:12:20 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 18:12:20 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 18:17:46 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 18:17:46 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 18:18:19 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 18:18:19 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 18:18:23 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 18:18:23 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 18:31:26 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 18:31:26 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 18:31:54 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 18:31:54 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 18:34:03 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 18:34:03 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 18:37:21 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 18:37:21 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 18:37:29 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 18:37:29 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 18:37:32 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 18:37:32 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 18:44:21 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 18:44:21 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 18:44:35 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 18:44:35 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 18:48:06 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 18:48:06 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 18:48:11 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 18:48:11 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 18:48:21 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 18:48:21 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 18:48:24 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 18:48:24 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 18:48:56 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 18:48:56 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 18:48:58 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 18:48:58 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 18:56:24 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 18:56:24 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 18:56:29 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 18:56:29 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 19:06:28 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 19:06:28 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 19:06:32 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 19:06:32 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 19:07:26 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 19:07:26 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 19:07:31 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 19:07:31 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 19:11:47 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 19:11:47 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 19:11:50 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 19:11:50 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 19:11:57 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 19:11:57 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 19:12:18 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 19:12:18 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 19:13:25 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 19:13:25 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 19:13:27 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 19:13:27 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 19:13:33 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 19:13:33 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 19:13:35 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 19:13:35 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 19:14:45 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 19:14:45 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 19:15:09 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 19:15:09 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 19:18:11 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 19:18:11 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 19:18:14 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 19:18:14 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-01 19:18:30 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-01 19:18:30 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-01 19:18:32 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-01 19:18:32 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 00:38:46 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 00:38:46 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 00:38:49 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 00:38:49 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 00:39:31 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 00:39:31 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 00:46:28 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 00:46:28 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 00:46:47 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 00:46:47 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 00:47:05 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 00:47:05 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 00:52:58 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 00:52:58 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 01:03:43 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 01:03:43 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 01:04:03 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 01:04:03 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 01:05:28 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 01:05:28 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 01:05:31 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 01:05:31 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 01:06:12 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 01:06:12 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 01:06:15 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 01:06:15 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 01:17:41 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 01:17:41 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 01:17:45 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 01:17:45 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 01:18:57 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 01:18:57 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 01:19:00 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 01:19:00 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 01:19:39 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 01:19:39 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 01:19:41 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 01:19:41 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 15:27:03 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 15:27:03 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 15:40:37 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 15:40:37 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 15:47:22 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 15:47:22 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 15:48:33 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 15:48:33 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 15:50:03 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 15:50:03 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 15:50:28 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 15:50:28 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 16:42:38 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 16:42:38 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 16:44:24 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 16:44:25 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-02 16:47:33 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-02 16:47:33 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-02 17:34:22 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-02 17:34:22 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-03 21:48:58 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-03 21:48:58 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии
+2020-12-06 13:24:01 | FUNC:Front Http Server | UNIT: nil | TEXT: Starting, HTTP on:3447
+2020-12-06 13:24:01 | FUNC:Front Http Server | UNIT: nil | TEXT: Server is started
+2020-12-06 23:36:38 | FUNC:Front Http Server | UNIT: nil | TEXT: Daemon_Closer | COM:Безопасное завершение программы | DT:interrupt
+2020-12-06 23:36:38 | FUNC:Front Http Server | UNIT: nil | TEXT: interrupt | COM:Завершаем сессии

@@ -1,0 +1,7 @@
+2020-11-24 20:05:18 | FUNC:Welcome | UNIT: nil | TEXT: Вас приветствует "Silika-FileManager Контроллер" v1.1 (11112020) 
+2020-11-24 20:13:03 | FUNC:Welcome | UNIT: nil | TEXT: Вас приветствует "Silika-FileManager Контроллер" v1.1 (11112020) 
+2020-11-24 20:14:27 | FUNC:Welcome | UNIT: nil | TEXT: Вас приветствует "Silika-FileManager Контроллер" v1.1 (11112020) 
+2020-11-24 20:14:55 | FUNC:Welcome | UNIT: nil | TEXT: Вас приветствует "Silika-FileManager Контроллер" v1.1 (11112020) 
+2020-11-24 20:15:47 | FUNC:Welcome | UNIT: nil | TEXT: Вас приветствует "Silika-FileManager Контроллер" v1.1 (11112020) 
+2020-11-24 20:16:05 | FUNC:Welcome | UNIT: nil | TEXT: Вас приветствует "Silika-FileManager Контроллер" v1.1 (11112020) 
+2020-11-24 20:16:07 | FUNC:Welcome | UNIT: nil | TEXT: Good by

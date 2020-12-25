@@ -1,0 +1,10 @@
+2020-12-02 15:41:38 | FUNC:Anonimouse | UNIT: nil | TEXT: {"Name":"Run","Text":"Проект запуск"}
+2020-12-02 15:49:07 | FUNC:Anonimouse | UNIT: nil | TEXT: {"Name":"Run","Text":"Проект запуск"}
+2020-12-02 15:51:21 | FUNC:Anonimouse | UNIT: nil | TEXT: {"Name":"RunKod","Text":"Запуск проекта с вложением"}
+2020-12-02 15:51:54 | FUNC:Anonimouse | UNIT: nil | TEXT: {"Name":"RunKod","Text":"Запуск проекта с вложением"}
+2020-12-02 16:45:14 | FUNC:Anonimouse | UNIT: nil | TEXT: {"Name":"RunRootFs","Text":"Проект запуск"}
+2020-12-02 17:34:40 | FUNC:Anonimouse | UNIT: nil | TEXT: {"Name":"RunRootFs","Text":"Запустим root kod fs"}
+2020-12-02 17:34:40 | FUNC:Anonimouse | UNIT: nil | TEXT: Запустим root kod fs
+2020-12-03 18:50:00 | FUNC:Anonimouse | UNIT: nil | TEXT: {"Name":"RunRootFs","Text":"Запустим root kod fs"}
+2020-12-03 18:50:00 | FUNC:Anonimouse | UNIT: nil | TEXT: Запустим root kod fs
+2020-12-06 13:26:22 | FUNC:Anonimouse | UNIT: nil | TEXT: {"Name":"RunKod","Text":"Запуск проекта с вложением"}

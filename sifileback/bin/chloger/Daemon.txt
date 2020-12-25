@@ -1,0 +1,16 @@
+2020-12-01 18:31:30 | FUNC:Daemon | UNIT: Conn | TEXT: Run code welcome
+2020-12-01 18:34:30 | FUNC:Daemon | UNIT: Conn | TEXT: Run code welcome
+2020-12-01 18:44:26 | FUNC:Daemon | UNIT: Conn | TEXT: Run code welcome
+2020-12-01 19:14:53 | FUNC:Daemon | UNIT: Conn | TEXT: Run code welcome
+2020-12-02 00:46:52 | FUNC:Daemon | UNIT: Conn | TEXT: Run code welcome
+2020-12-02 00:53:02 | FUNC:Daemon | UNIT: Conn | TEXT: Run code welcome
+2020-12-02 00:53:02 | FUNC:Daemon | UNIT: Conn | TEXT: Run code wait
+2020-12-02 00:53:02 | FUNC:Daemon | UNIT: Conn | TEXT: Run code ok
+2020-12-02 01:04:39 | FUNC:Daemon | UNIT: Conn | TEXT: Run code welcome
+2020-12-02 01:04:39 | FUNC:Daemon | UNIT: Conn | TEXT: Run code wait
+2020-12-02 01:04:39 | FUNC:Daemon | UNIT: Conn | TEXT: Run code ok
+2020-12-02 01:05:35 | FUNC:Daemon | UNIT: Conn | TEXT: Run code welcome
+2020-12-02 01:05:35 | FUNC:Daemon | UNIT: Conn | TEXT: Run code wait
+2020-12-02 01:06:27 | FUNC:Daemon | UNIT: Conn | TEXT: Run code welcome
+2020-12-02 01:06:27 | FUNC:Daemon | UNIT: Conn | TEXT: Run code wait
+2020-12-02 01:06:27 | FUNC:Daemon | UNIT: Conn | TEXT: Run code ok
